@@ -7,38 +7,30 @@ import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
     "React",
-    "TypeScript",
+    "Bootstrap",
+    "Material-UI",
+    "Tailwind CSS",
     "JavaScript",
     "HTML5",
     "CSS3",
     "SASS",
-    "Flask",
     "Python",
     "SQL",
     "PostgreSQL",
-    "Postman"
+    "Postman",
+    "Vue.js",
 ];
 
 const labelsSecond = [
     "Git",
     "GitHub Actions",
-    "Docker",
-    "AWS",
-    "Azure",
-    "Linux",
-    "Snowflake",
-    "Pandas",
-    "Selenium",
 ];
 
 const labelsThird = [
     "OpenAI",
     "Groq",
-    "LangChain",
-    "Qdrant",
-    "Hugging Face",
-    "LlamaIndex",
-    "Streamlit",
+    "chatGPT",
+    "DeepSeek",
 ];
 
 function Expertise() {
