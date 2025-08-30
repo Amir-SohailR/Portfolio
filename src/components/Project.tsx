@@ -14,7 +14,7 @@ import Calculator from "../assets/images/Calculator.jpg";
 import Library from "../assets/images/Library.png";
 //import img1 from '../assets/images/img1.jpg';
 import '../assets/styles/Project.scss';
-import { Facebook } from "@mui/icons-material";
+//import { Facebook } from "@mui/icons-material";
 
 function Project() {
     return(
