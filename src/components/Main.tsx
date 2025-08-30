@@ -2,10 +2,8 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import linkedin  from '../assets/images/linkedin.jpg';
-import img1 from '../assets/images/img1.jpg'; 
 import '../assets/styles/Main.scss';
-import t from '../assets/images/t.jpg'
-import profile from '../assets/images/profile.jpg'
+
 
 function Main() {
 
